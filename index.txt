@@ -6,38 +6,6 @@ This is a blog html template made by codewithsadee
 
 #---------- HEADER ----------#
 
-alt = Wren logo
-
-alt = Wren logo
-
-aria-label = close menu
-<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
-
-Home
-Topics
-Featured Post
-Recent Post
-Contact
-
-alt = Steven
-Hello Steven !
-You have 3 new messages
-
-Profile
-Articles Saved
-Add New Post
-
-My Likes
-Account Setting
-Sign Out
-
-Copyright 2022 © Wren - Personal Blog Template.
-Developed by codewithsadee
-
-Subscribe
-
-aria-label = open menu
-<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
 
 
 
