@@ -11,16 +11,11 @@ This is a blog html template made by codewithsadee
 
 #---------- HERO ----------#
 
-Hello Everyone!
-
-I’m Wren Clark
-
-I use animation as a third dimension by which to simplify experiences and kuiding thro each and every interaction. I’m not adding motion just to spruce things up, but doing it in ways that.
 
 placeholder = Type your email address
 
 Subscribe
-<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
 
 alt = Wren Clark
 

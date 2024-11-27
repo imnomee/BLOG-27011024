@@ -6,7 +6,6 @@ const addEventOnElements = (elements, eventType, callback) => {
 
 const navbar = document.querySelector('[data-navbar]');
 const navbarTogglers = document.querySelectorAll('[data-nav-toggler]');
-console.log(navbarTogglers);
 const toggleNav = () => {
     navbar.classList.toggle('active');
 };
