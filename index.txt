@@ -12,44 +12,8 @@ This is a blog html template made by codewithsadee
 #---------- HERO ----------#
 
 
-placeholder = Type your email address
-
-Subscribe
-
-
-alt = Wren Clark
-
-alt = shape
-
-
 
 #---------- TOPICS ----------#
-
-Hot topics
-
-Don't miss out on the latest news about Travel tips, Hotels review, Food guide...
-
-aria-label = previous
-<ion-icon name="arrow-back" aria-hidden="true"></ion-icon>
-
-aria-label = next
-<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
-
-Sport
-38 Articles
-
-Travel
-63 Articles
-
-Design
-78 Articles
-
-Movie
-125 Articles
-
-Lifestyle
-78 Articles
-
 
 
 #---------- FEATURED POST ----------#
